@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {
+			Title = "Swag Mode: Admin Fly";
+			Text = "Press X to toggle. This is free SO IF U BOUGHT THIS, YOU GOT SCAMMED";
+			Duration = 15;
+		})
