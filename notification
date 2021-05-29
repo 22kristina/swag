@@ -1,0 +1,5 @@
+  game.StarterGui:SetCore("SendNotification", {
+        Title = "Swag mode: Admin Fly";
+        Text = "Press X to toggle this. If you paid someone for, you got scammed. Report on discord.gg/swagmode";
+        Duration = 15;
+    })
