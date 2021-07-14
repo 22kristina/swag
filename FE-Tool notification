@@ -9,3 +9,9 @@ game.StarterGui:SetCore("SendNotification", {
     Text = ";mute <player>                                      ;unmute <player>                                                 ;muteall                                             ;unmuteall ";
     Duration = 15;
 })
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "FE Tool";
+    Text = "THIS IS INCOMPLETED PROJECT; ima finish it later. But still gonna publish it ";
+    Duration = 15;
+})
