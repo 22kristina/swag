@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification", {
     Title = "FE Tool";
-    Text = "Type ;cmds to check the command list!";
+    Text = "Type ;cmds to check the command list! Hover your mouse over commands to check their function";
     Duration = 15;
 })
 
