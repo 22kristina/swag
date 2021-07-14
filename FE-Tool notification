@@ -1,0 +1,11 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "FE Tool";
+    Text = "Type ;cmds to check the command list!";
+    Duration = 15;
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Mute Command";
+    Text = ";mute <player>                                      ;unmute <player>                                                 ;muteall                                             ;unmuteall ";
+    Duration = 15;
+})
